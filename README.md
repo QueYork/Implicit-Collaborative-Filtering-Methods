@@ -19,4 +19,4 @@ To run the code, make sure you have installed Torch in conda environment. Then f
 
 
 <br>
-<p align="right">Project code in SDSC3002 Data Mining<br>City University of Hong Kong<br>By QUE Yue</p>
+<p align="right">Project code in SDSC3002 Data Mining<br>City University of Hong Kong<br>By QUE Yue, LIU Zhifei, TUNG Wai Nam</p>
