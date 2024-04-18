@@ -15,7 +15,7 @@ Datasets used are MovieLens-100K & MovieLens-1M (source: https://grouplens.org/d
 
 
 ## Run
-To run the code, feel free to open each Jupyter notebook and run, all procedures including data preprocess, training, evaluation are self-contained in each notebook.
+To run the code, feel free to open each Jupyter notebook and run, all procedures including data preprocess, training, evaluation are self-contained in each notebook (require Conda environment with Torch installed).
 
 
 
