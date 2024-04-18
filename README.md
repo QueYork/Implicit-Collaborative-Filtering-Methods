@@ -12,6 +12,8 @@ These methods include:
 
 ## Datasets
 Datasets used are MovieLens-100K & MovieLens-1M (source: https://grouplens.org/datasets/movielens/).
+- ml-100k
+- ml-1m
 
 
 ## Run
