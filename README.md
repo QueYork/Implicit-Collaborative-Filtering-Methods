@@ -15,6 +15,4 @@ Datasets used are MovieLens-100K & MovieLens-1M (source: https://grouplens.org/d
 To run the code, feel free to open each Jupyter notebook and run, all procedures including data preprocess, training, evaluation are self-contained in each notebook.
 
 
-<p align="right">Project code in SDSC3002 Data Mining, City University of Hong Kong.</p>
-
-Produced by QUE Yue.
+<p align="right">Project code in SDSC3002 Data Mining, City University of Hong Kong. <br>By QUE Yue.</p>
